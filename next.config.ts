@@ -1,7 +1,7 @@
 import type { NextConfig } from "next";
 
 const nextConfig: NextConfig = {
-  basePath: '/day01',
+  basePath: '/',
   assetPrefix: '/', // 確保靜態資源也能正常加載
 };
 
