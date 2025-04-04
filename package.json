@@ -2,6 +2,7 @@
   "name": "day1",
   "version": "0.1.0",
   "private": true,
+  "homepage": "https://ptdtw.github.io/day01",
   "scripts": {
     "dev": "next dev",
     "build": "next build",
